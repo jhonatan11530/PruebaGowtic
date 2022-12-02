@@ -6,7 +6,7 @@ php artisan migrate
 ejecutar el siguiente codigo dentro de la carpeta de la prueba tecnica =>
 cp .env.example .env
 
-instalar carpeta "vendor"
+instalar carpeta "vendor" =>
 composer install
 
 crear llave para ejecutar el proyecto =>
