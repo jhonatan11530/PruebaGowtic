@@ -15,4 +15,4 @@ php artisan key:generate
 lanzar el proyecto con el siguiente query =>
 php artisan serve
 
-para ejecutar la api en la url /user/{id}
+para ejecutar la api en la url user/{id} => id del colaborador 
